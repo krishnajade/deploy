@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b353309.css",
+    "main.js": "/static/js/main.e96338dd.js",
+    "static/js/787.4d12adb8.chunk.js": "/static/js/787.4d12adb8.chunk.js",
+    "static/media/HomePage.png": "/static/media/HomePage.2fa2632644fe4877de24.png",
+    "static/media/logo4.png": "/static/media/logo4.e31ee36bf48f5a939210.png",
+    "static/media/p5.png": "/static/media/p5.23c4788c4de3285cde4b.png",
+    "static/media/p4.png": "/static/media/p4.5f7fc2c6cab46e42b3e6.png",
+    "static/media/p1.png": "/static/media/p1.919735019da405af51dc.png",
+    "static/media/p6.png": "/static/media/p6.001838d058d10389c383.png",
+    "static/media/p8.png": "/static/media/p8.1624cf3184b5ed28ed07.png",
+    "static/media/p3.png": "/static/media/p3.9e5191b1e59cb879909c.png",
+    "static/media/signup.jpg": "/static/media/signup.be171b92ef8790f4edce.jpg",
+    "static/media/registration.png": "/static/media/registration.2e8b3855a9517774d0f9.png",
+    "static/media/F2.jpg": "/static/media/F2.a25f20a980a56f449453.jpg",
+    "static/media/light_background.jpg": "/static/media/light_background.3ebeaa3d14084fdc4f01.jpg",
+    "static/media/patientlogo.png": "/static/media/patientlogo.3b97d63004fad228d543.png",
+    "static/media/DonorIcon.jpg": "/static/media/DonorIcon.b1a246635322c579a6e5.jpg",
+    "static/media/bloodbankicon.jpg": "/static/media/bloodbankicon.89e4e7d103f758c4cf39.jpg",
+    "static/media/login.png": "/static/media/login.a4349ebd64900310d0a0.png",
+    "static/media/Instalogo.png": "/static/media/Instalogo.ea1116c1049e4f9f1f9c.png",
+    "static/media/Linkedinlogo.png": "/static/media/Linkedinlogo.6a29d68b8551d639b8df.png",
+    "static/media/Facebooklogo.png": "/static/media/Facebooklogo.458991e0056e48d9a686.png",
+    "static/media/logo.jpg": "/static/media/logo.0a1ae66333a15530963c.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.6b353309.css.map": "/static/css/main.6b353309.css.map",
+    "main.e96338dd.js.map": "/static/js/main.e96338dd.js.map",
+    "787.4d12adb8.chunk.js.map": "/static/js/787.4d12adb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b353309.css",
+    "static/js/main.e96338dd.js"
+  ]
+}
